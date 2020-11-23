@@ -1,3 +1,8 @@
+##Output: 
+
+https://pg-git27.github.io/javascript-challenge/
+
+
 # JavaScript and DOM Manipulation
 
 In this project, a javascript code is written to create a table dynamically based upon a [dataset ](StarterCode/static/js/data.js) provided. Users are allowed to filter the table data for specific values. 
