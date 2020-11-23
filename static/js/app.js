@@ -77,7 +77,7 @@ function handelReset(){
     showData(tableData);
 }
 
-// filter functions
+// filter functions- Date,country,state,city,shape
 function filterDate(table){
     text = input_dt.property("value");
     if ( text == "") return table;  
