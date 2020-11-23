@@ -1,4 +1,4 @@
-##Output: 
+## Output: 
 
 https://pg-git27.github.io/javascript-challenge/
 
